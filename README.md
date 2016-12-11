@@ -1,6 +1,6 @@
-# saas
+# vue boilerplate
 
-> SaaS-Lumen
+> vue
 
 ## Build Setup
 
